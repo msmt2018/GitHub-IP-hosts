@@ -1,4 +1,4 @@
-name: Auto-update-hosts
+name: Auto-update-hosts2
 
 on:
   schedule:
